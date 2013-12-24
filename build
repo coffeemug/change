@@ -1,0 +1,4 @@
+#!/bin/bash
+
+pandoc --epub-metadata=metadata.xml -o book.pdf title.txt \
+    01-why-this-book.markdown
