@@ -13,13 +13,13 @@ proceeded to make every mistake in the book. We picked an idea that
 had no chance of success, hired the wrong people, took too long to
 deliver on our promises, and expended no effort on getting customers
 excited. A competent outside observer might have concluded that we
-were actively trying to subotage our own company. I'm certain that
+were actively trying to sabotage our own company. I'm certain that
 many outside observers concluded exactly that.
 
-Throughout this process many well meaning voices rightly pointed out
+Throughout this process many well-meaning voices rightly pointed out
 our blunders and oversights, and gently prodded us in a thousand
 different directions. Some of the nudges helped. Most confused us even
-further. Unlike the many notable strategists and tactitians in human
+further. Unlike the many notable strategists and tacticians in human
 history, we had neither the intuition nor natural aptitude for making
 good decisions under the uncertainty of forging a new path. We learned
 on the job, and had to get burnt by the consequences of our naiveté
@@ -35,7 +35,7 @@ four years.
 If you choose to embark on the journey of engendering technological,
 social, or political change, you will walk a grueling path, face
 formidable opponents, and tax your own endurance and character far
-beyond the familar limits. No piece of advice or system of thought
+beyond the familiar limits. No piece of advice or system of thought
 will make this path easy, but you can arm yourself with a guide that
 will illuminate the steps before you in your darkest hour.
 
