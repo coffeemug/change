@@ -7,4 +7,4 @@ your darkest hour.
 
 ## Chapters ##
 
-[Why this book?](01-why-this-book.markdown)
+1. [Why this book?](01-why-this-book.markdown)
